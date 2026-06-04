@@ -83,7 +83,7 @@ The investigation was conducted considering:
 
 ### Identity Overlap Investigation
 
-![IP Sharing](screenshots/ip_sharing.png)
+![IP Sharing](screenshots/ip_sharing_analysis.png)
 
 ### Structuring Investigation
 
