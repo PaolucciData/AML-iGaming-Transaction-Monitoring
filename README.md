@@ -93,7 +93,9 @@ The investigation was conducted considering:
 
 ![Risk Matrix](screenshots/risk_matrix.png)
 
----
+### EDD Action Plan
+
+![EDD Action Plan](screenshots/EDD_plan_0001.png)
 
 ## Disclaimer
 
