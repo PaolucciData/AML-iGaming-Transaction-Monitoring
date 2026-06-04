@@ -87,7 +87,7 @@ The investigation was conducted considering:
 
 ### Structuring Investigation
 
-![Structuring](screenshots/smurfing.png)
+![Structuring](screenshots/smurfing_analysis.png)
 
 ### Risk Matrix
 
